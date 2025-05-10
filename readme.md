@@ -1,4 +1,6 @@
-# TRABAJO PRÁCTICO N.º 5
+# TRABAJO PRÁCTICO N.º 5 
+# TERMINADO 💪
+
 
 ### Nuestra primera aplicación en Flask
 
